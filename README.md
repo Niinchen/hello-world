@@ -2,10 +2,10 @@
 This is my first respository
 
 Hey pro´s :) I startet to code 2 years ago with simple HTML5 & css in school,
-but then I made the MS Office advanced and stopped coding. Now I´m back and will
-get my final grade soon. For that I will have to design a website with some php.
+but then I made the MS Office advanced and stopped coding. Now I´m back and I will
+get my final grade soon. For that I have to design a website with some php.
 
-I have got a great creativity and I imagine a lot but I´m worried because I can't create what I´m "fantasising"...
+I have got a great creativity and I imagine a lot but I´m worried because I can't create what I´m "fantasysing"...
 
 Because of all my great ideas I´m not sure what I want to create yet.
 
